@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dwijendra</h1>
-<h3 align="center">A data science enthusiast from India</h3>
+<h3 align="center">An aspiring data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwijendra626&label=Profile%20views&color=0e75b6&style=plastic" alt="dwijendra626" /> </p>
 
-- 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, NLP**
+- 🌱 I’m currently learning **SQL, Power BI, Python, Statistics, Excel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dwijendra626](https://github.com/dwijendra626)
 
